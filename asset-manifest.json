@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sankey-ui/static/js/main.6e53740d.js",
+    "index.html": "/sankey-ui/index.html",
+    "main.6e53740d.js.map": "/sankey-ui/static/js/main.6e53740d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6e53740d.js"
+  ]
+}
